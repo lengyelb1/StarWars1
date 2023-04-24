@@ -1,0 +1,8 @@
+C:\Users\Tanulo\Downloads\Eloadas 20\StarWars\bin\Debug\StarWars.exe.config
+C:\Users\Tanulo\Downloads\Eloadas 20\StarWars\bin\Debug\StarWars.exe
+C:\Users\Tanulo\Downloads\Eloadas 20\StarWars\bin\Debug\StarWars.pdb
+C:\Users\Tanulo\Downloads\Eloadas 20\StarWars\obj\Debug\StarWars.csproj.AssemblyReference.cache
+C:\Users\Tanulo\Downloads\Eloadas 20\StarWars\obj\Debug\StarWars.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\Downloads\Eloadas 20\StarWars\obj\Debug\StarWars.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\Downloads\Eloadas 20\StarWars\obj\Debug\StarWars.exe
+C:\Users\Tanulo\Downloads\Eloadas 20\StarWars\obj\Debug\StarWars.pdb

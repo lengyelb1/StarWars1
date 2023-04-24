@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emlosok", "Emlosok\Emlosok.csproj", "{833581F5-AE08-4E9B-A283-8AC76E779959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars", "StarWars\StarWars.csproj", "{7E4A93F1-24D5-444A-AEE9-1E45343AD88E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{833581F5-AE08-4E9B-A283-8AC76E779959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833581F5-AE08-4E9B-A283-8AC76E779959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833581F5-AE08-4E9B-A283-8AC76E779959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833581F5-AE08-4E9B-A283-8AC76E779959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4A93F1-24D5-444A-AEE9-1E45343AD88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4A93F1-24D5-444A-AEE9-1E45343AD88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4A93F1-24D5-444A-AEE9-1E45343AD88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4A93F1-24D5-444A-AEE9-1E45343AD88E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA1C851C-7895-4AB1-A780-035281A53F3F}
+	EndGlobalSection
+EndGlobal
